@@ -1,5 +1,13 @@
 # @defer/client
 
+## 1.12.0
+
+### Minor Changes
+
+- [#96](https://github.com/defer-run/defer.client/pull/96) [`a392419`](https://github.com/defer-run/defer.client/commit/a392419f2e464c2baee978722e516fd1ef72429e) Thanks [@gearnode](https://github.com/gearnode)! - Add discardAfter option
+
+- [#98](https://github.com/defer-run/defer.client/pull/98) [`a766297`](https://github.com/defer-run/defer.client/commit/a766297ce592ea4ad8eeef3ebe03df2257b9059f) Thanks [@gearnode](https://github.com/gearnode)! - Add reschedule support
+
 ## 1.11.0
 
 ### Minor Changes
